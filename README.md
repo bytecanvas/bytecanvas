@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.postimg.cc/FF2r27Cp/Banner.gif">
+</p>
 
-<!--
-**bytecanvas/bytecanvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+Name = "ByteBard"
+Alias = "bytecanvas"
+Open Source Os = "Linux Mint"
+Closed Source Os = "Windows, OS-X"
+Database Tools = "MySQL Workbench"
+Version Control = "Git"
+Scripting Langauge = "Python, Bash, JavaScript"
+Text Editor = "Vim, Nano, Codium"
+Web Browser = "LibreWolf, Brave"
+Documentation = "Markdown"
+Virtualization Tools = "VirtualBox, VMWare, Vagrant"
+e-Learning = "YouTube, Udmey"
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Analytics Visualization 🔎
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytecanvas&theme=github_dark)
+  
+### Language Stat
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytecanvas&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bytecanvas&theme=github_dark)
+  
+### GitHub Stat 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytecanvas&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bytecanvas&theme=github_dark)
+
+```
