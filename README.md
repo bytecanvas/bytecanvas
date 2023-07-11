@@ -2,20 +2,38 @@
   <img src="https://i.postimg.cc/FF2r27Cp/Banner.gif">
 </p>
 
-```bash
-Name = "ByteBard"
-Alias = "bytecanvas"
-Open Source Os = "Linux Mint"
-Closed Source Os = "Windows, OS-X"
-Database Tools = "MySQL Workbench"
-Version Control = "Git"
-Scripting Langauge = "Python, Bash, JavaScript"
-Text Editor = "Vim, Nano, Codium"
-Web Browser = "LibreWolf, Brave"
-Documentation = "Markdown"
-Virtualization Tools = "VirtualBox, VMWare, Vagrant"
-e-Learning = "YouTube, Udmey"
+```json
+{
+"Name": [
+        "bytecanvas"
+        ],
 
+"OS": [
+      "Linux Mint",
+      "Windows",
+      "Arch Linux"
+      ],
+
+"Tools": [
+        "VBox",
+        "Brave",
+        "Git",
+        "MySQL Workbench",
+        "VMWare",
+        "LibreWolf",
+        "Codium",
+        "Nano"
+        "Vagrant",
+        "Markdown",
+        "Vim"
+        ],
+
+"Programming and Scripting Languages": [
+                                        "JavaScript",
+                                        "Python",
+                                        "Bash"
+                                        ]
+}
 ```
 
 ## GitHub Analytics Visualization 🔎
