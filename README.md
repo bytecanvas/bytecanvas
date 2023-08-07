@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.postimg.cc/FF2r27Cp/Banner.gif">
-</p>
+![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/3256ddce-21b4-4be3-966b-7d2372916633)
 
 ```json
 {
