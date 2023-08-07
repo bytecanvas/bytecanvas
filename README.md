@@ -1,4 +1,4 @@
-![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/3256ddce-21b4-4be3-966b-7d2372916633)
+![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/b95e6f36-c1da-4799-9341-a74e2fafa5a4)
 
 ```json
 {
