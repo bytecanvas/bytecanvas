@@ -45,4 +45,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytecanvas&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bytecanvas&theme=github_dark)
 
-```
