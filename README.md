@@ -1,6 +1,7 @@
 ![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/b95e6f36-c1da-4799-9341-a74e2fafa5a4)
 
 ```python
+
 data = {
     "Name": ["bytecanvas"],  # 👤 Creator's name
 
@@ -15,11 +16,10 @@ data = {
         "Brave",            # 🦁 Brave browser
         "Git",              # 🛠️ Git version control
         "MySQL Workbench",  # 🗃️ MySQL Workbench tool
-        "VMWare",           # 🖥️ VMWare virtualization
         "Codium",           # 🖋️ Codium text editor
-        "Nano",             # 💬 Nano text editor
         "Markdown",         # 📄 Markdown language
-        "Vim"               # ✒️ Vim text editor
+        "Vim",              # ✒️ Vim text editor
+        "Waterfox"          # 🦊 Waterfox browser
     ],
 
     "Programming and Scripting Languages": [
@@ -38,6 +38,7 @@ print("Name 👤:", name_list)
 print("OS 🖥️:", os_list)
 print("Tools 🔧:", tools_list)
 print("Programming and Scripting Languages 📜:", languages_list)
+
 ```
 
 ## GitHub Analytics Visualization 🔎
