@@ -1,4 +1,4 @@
-![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/b95e6f36-c1da-4799-9341-a74e2fafa5a4)
+![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/7df3adeb-985d-4e86-bad4-6d1eef54af50)
 
 ```python
 
