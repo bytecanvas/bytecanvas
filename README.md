@@ -1,37 +1,43 @@
 ![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/b95e6f36-c1da-4799-9341-a74e2fafa5a4)
 
-```json
-{
-"Name": [
-        "bytecanvas"
-        ],
+```python
+data = {
+    "Name": ["bytecanvas"],  # 👤 Creator's name
 
-"OS": [
-      "Linux Mint",
-      "Windows",
-      "Arch Linux"
-      ],
+    "OS": [
+        "Linux Mint",       # 🐧 Linux Mint OS
+        "Windows",          # 🪟 Windows OS
+        "Arch Linux"        # 🏰 Arch Linux OS
+    ],
 
-"Tools": [
-        "VBox",
-        "Brave",
-        "Git",
-        "MySQL Workbench",
-        "VMWare",
-        "LibreWolf",
-        "Codium",
-        "Nano"
-        "Vagrant",
-        "Markdown",
-        "Vim"
-        ],
+    "Tools": [
+        "VBox",             # 📦 VirtualBox tool
+        "Brave",            # 🦁 Brave browser
+        "Git",              # 🛠️ Git version control
+        "MySQL Workbench",  # 🗃️ MySQL Workbench tool
+        "VMWare",           # 🖥️ VMWare virtualization
+        "Codium",           # 🖋️ Codium text editor
+        "Nano",             # 💬 Nano text editor
+        "Markdown",         # 📄 Markdown language
+        "Vim"               # ✒️ Vim text editor
+    ],
 
-"Programming and Scripting Languages": [
-                                        "JavaScript",
-                                        "Python",
-                                        "Bash"
-                                        ]
+    "Programming and Scripting Languages": [
+        "Python",           # 🐍 Python programming language
+        "Bash"              # 💻 Bash scripting language
+    ]
 }
+
+name_list = data["Name"]
+os_list = data["OS"]
+tools_list = data["Tools"]
+languages_list = data["Programming and Scripting Languages"]
+
+# Print each category with emojis
+print("Name 👤:", name_list)
+print("OS 🖥️:", os_list)
+print("Tools 🔧:", tools_list)
+print("Programming and Scripting Languages 📜:", languages_list)
 ```
 
 ## GitHub Analytics Visualization 🔎
