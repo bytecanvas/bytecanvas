@@ -8,13 +8,12 @@ data = {
     "OS": [
         "Linux Mint",       # 🐧 Linux Mint OS
         "Windows",          # 🪟 Windows OS
-        "Arch Linux"        # 🏰 Arch Linux OS
     ],
 
     "Tools": [
         "VBox",             # 📦 VirtualBox tool
         "Brave",            # 🦁 Brave browser
-        "Git",              # 🛠️ Git version control
+        "Git",              # 🛠️ Version control
         "MySQL Workbench",  # 🗃️ MySQL Workbench tool
         "Codium",           # 🖋️ Codium text editor
         "Markdown",         # 📄 Markdown language
