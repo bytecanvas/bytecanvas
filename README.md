@@ -11,14 +11,11 @@ data = {
     ],
 
     "Tools": [
-        "VBox",             # 📦 VirtualBox tool
-        "Brave",            # 🦁 Brave browser
-        "Git",              # 🛠️ Version control
-        "MySQL Workbench",  # 🗃️ MySQL Workbench tool
+        "VBox",             # 📦 Virtualization
         "Codium",           # 🖋️ Codium text editor
         "Markdown",         # 📄 Markdown language
         "Vim",              # ✒️ Vim text editor
-        "Waterfox"          # 🦊 Waterfox browser
+        "Waterfox"          # 🦊 Browser
     ],
 
     "Programming and Scripting Languages": [
