@@ -1,40 +1,17 @@
-![Bytecanvas](https://github.com/bytecanvas/bytecanvas/assets/139046842/7df3adeb-985d-4e86-bad4-6d1eef54af50)
+```bash
+#!/bin/bash
 
-```python
-
-data = {
-    "Name": ["bytecanvas"],  # 👤 Creator's name
-
-    "OS": [
-        "Linux Mint",       # 🐧 Linux Mint OS
-        "Windows",          # 🪟 Windows OS
-    ],
-
-    "Tools": [
-        "VBox",             # 📦 Virtualization
-        "Codium",           # 🖋️ Codium text editor
-        "Markdown",         # 📄 Markdown language
-        "Vim",              # ✒️ Vim text editor
-        "Waterfox"          # 🦊 Browser
-    ],
-
-    "Programming and Scripting Languages": [
-        "Python",           # 🐍 Python programming language
-        "Bash"              # 💻 Bash scripting language
-    ]
-}
-
-name_list = data["Name"]
-os_list = data["OS"]
-tools_list = data["Tools"]
-languages_list = data["Programming and Scripting Languages"]
+# Data Arrays
+name_list=("bytecanvas")  # 👤 Creator's name
+os_list=("Linux Mint")  # 🖥️ OS
+tools_list=("VBox" "Codium" "Markdown" "Vim" "Waterfox")  # 🔧 Tools
+languages_list=("Python" "Bash")  # 📜 Programming and Scripting Languages
 
 # Print each category with emojis
-print("Name 👤:", name_list)
-print("OS 🖥️:", os_list)
-print("Tools 🔧:", tools_list)
-print("Programming and Scripting Languages 📜:", languages_list)
-
+echo "Name 👤: ${name_list[*]}"
+echo "OS 🖥️: ${os_list[*]}"
+echo "Tools 🔧: ${tools_list[*]}"
+echo "Programming and Scripting Languages 📜: ${languages_list[*]}"
 ```
 
 ## GitHub Analytics Visualization 🔎
